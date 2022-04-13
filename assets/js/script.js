@@ -13,7 +13,7 @@ function openSocial(type) {
       url = 'https://github.com/Creatinq';
       break;
     case 'twitter':
-      url = 'https://twitter.com/Creatinq';
+      url = 'https://twitter.com/Creatinqqq';
       break;
   }
 
