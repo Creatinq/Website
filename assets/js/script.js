@@ -7,13 +7,13 @@ function openSocial(type) {
 
   switch (type) {
     case 'discord':
-      url = 'https://discordapp.com/users/805092066555592706';
+      url = 'https://discord.com/users/963412628967936061';
       break;
     case 'github':
-      url = 'https://github.com/IgnKay';
+      url = 'https://github.com/Creatinq';
       break;
     case 'twitter':
-      url = 'https://twitter.com/ignkay';
+      url = 'https://twitter.com/Creatinq';
       break;
   }
 
@@ -37,7 +37,7 @@ function startIntroTyping() {
 function typerStartTyping(typer) {
   typer.reset();
 
-  let text = ['certified dumbass', 'dumbass', 'Java Dev', 'forth founder | iconic llc', 'i like cattos'];
+  let text = ['Java Developer', 'Pepsi W', 'Cats are cool', 'Certified skidder', 'bro why are you still here'];
 
   text.forEach(function (language, index) {
     typer.move(null);
@@ -62,7 +62,7 @@ function startMainTyping() {
 }
 
 function switchScreen() {
-  document.title = 'Kay | home';
+  document.title = 'Creatinq on top W';
 
   $('.intro').fadeOut(1000, function () {
     $('.bg-image').fadeIn(1000);
