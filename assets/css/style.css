@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded:wght@500&display=swap');
+@import url('https://fonts.google.com/specimen/Varela+Round#standard-styles');
 
 body {
   background-color: #000;
@@ -8,7 +8,7 @@ p,
 .maintext,
 .subtext {
   color: #fff;
-  font-family: 'Encode Sans Expanded', sans-serif;
+  font-family: 'Varela Round', sans-serif;
 }
 
 .bg-image {
